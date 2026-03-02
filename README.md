@@ -139,8 +139,9 @@ tkinter                # Встроенная библиотека Python (не 
 pip install Pillow
 
 # Или через requirements.txt
-```
+
 pip install -r requirements.txt
 # Запустите Python и проверьте:
 import PIL
 print(PIL.__version__)  # Должна показать версию 9.0.0 или выше
+```
