@@ -127,6 +127,7 @@ python3 --version
 │
 └── 📸 screenshot.png             # Скриншот программы
 ```
+```bash
 # Основные библиотеки
 Pillow>=9.0.0          # Обработка изображений (обязательно)
 tkinter                # Встроенная библиотека Python (не нужно устанавливать)
@@ -138,6 +139,7 @@ tkinter                # Встроенная библиотека Python (не 
 pip install Pillow
 
 # Или через requirements.txt
+```
 pip install -r requirements.txt
 # Запустите Python и проверьте:
 import PIL
